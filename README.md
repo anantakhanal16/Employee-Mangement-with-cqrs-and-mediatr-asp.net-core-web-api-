@@ -1,1 +1,1 @@
-# dot-net-Template
+The Employee Management System is a web-based application built on the principles of Command Query Responsibility Segregation (CQRS) and utilizes the MediatR library to facilitate command and query processing. The system provides a comprehensive set of functionalities for managing employee data, including creating, reading, updating, and deleting employee records.
